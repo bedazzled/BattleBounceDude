@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: c5526cce6b3ae4080a8b5dc4431054c2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: creature_body
+    100002: //RootNode
+    100004: creature_teeth
+    100006: Ctrl_Group
+    100008: Geo_Group
+    100010: Head_Jnt
+    100012: Jaw_Jnt
+    100014: LT_creature_wing
+    100016: LT_Leg_01_Jnt
+    100018: LT_Leg_02_Jnt
+    100020: LT_Wing_01_Jnt
+    100022: LT_Wing_02_Jnt
+    100024: LT_Wing_03_Jnt
+    100026: Root_Jnt
+    100028: Root_Jnt_Group
+    100030: RT_creature_wing
+    100032: RT_Reg_01_Jnt
+    100034: RT_Reg_02_Jnt
+    100036: RT_Wing_01_Jnt
+    100038: RT_Wing_02_Jnt
+    100040: RT_Wing_03_Jnt
+    100042: World
+    400000: creature_body
+    400002: //RootNode
+    400004: creature_teeth
+    400006: Ctrl_Group
+    400008: Geo_Group
+    400010: Head_Jnt
+    400012: Jaw_Jnt
+    400014: LT_creature_wing
+    400016: LT_Leg_01_Jnt
+    400018: LT_Leg_02_Jnt
+    400020: LT_Wing_01_Jnt
+    400022: LT_Wing_02_Jnt
+    400024: LT_Wing_03_Jnt
+    400026: Root_Jnt
+    400028: Root_Jnt_Group
+    400030: RT_creature_wing
+    400032: RT_Reg_01_Jnt
+    400034: RT_Reg_02_Jnt
+    400036: RT_Wing_01_Jnt
+    400038: RT_Wing_02_Jnt
+    400040: RT_Wing_03_Jnt
+    400042: World
+    4300000: creature_body
+    4300002: creature_teeth
+    4300004: LT_creature_wing
+    4300006: RT_creature_wing
+    7400000: flying
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: creature_body
+    13700002: creature_teeth
+    13700004: LT_creature_wing
+    13700006: RT_creature_wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: flying
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: c9ddcbb8b1cdd4623910bdc9fb702705
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Landscape
+    100004: Palmtree_1
+    100006: Palmtree_2
+    100008: Palmtree_3
+    100010: Palmtree_4
+    100012: PurplePlant_1
+    100014: PurplePlant_2
+    100016: Xerophyte_1
+    100018: Xerophyte_2
+    100020: Xerophyte_3
+    400000: //RootNode
+    400002: Landscape
+    400004: Palmtree_1
+    400006: Palmtree_2
+    400008: Palmtree_3
+    400010: Palmtree_4
+    400012: PurplePlant_1
+    400014: PurplePlant_2
+    400016: Xerophyte_1
+    400018: Xerophyte_2
+    400020: Xerophyte_3
+    2300000: Landscape
+    2300002: Palmtree_1
+    2300004: Palmtree_2
+    2300006: Palmtree_3
+    2300008: Palmtree_4
+    2300010: PurplePlant_1
+    2300012: PurplePlant_2
+    2300014: Xerophyte_1
+    2300016: Xerophyte_2
+    2300018: Xerophyte_3
+    3300000: Landscape
+    3300002: Palmtree_1
+    3300004: Palmtree_2
+    3300006: Palmtree_3
+    3300008: Palmtree_4
+    3300010: PurplePlant_1
+    3300012: PurplePlant_2
+    3300014: Xerophyte_1
+    3300016: Xerophyte_2
+    3300018: Xerophyte_3
+    4300000: Landscape
+    4300002: Palmtree_4
+    4300004: PurplePlant_1
+    4300006: PurplePlant_2
+    4300008: Palmtree_2
+    4300010: Palmtree_1
+    4300012: Palmtree_3
+    4300014: Xerophyte_1
+    4300016: Xerophyte_2
+    4300018: Xerophyte_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0900000036
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 5407461bb8fff4ff69a8ba17401f0e20
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: creature_teeth3
+    100002: creature_teeth4
+    100004: Ctrl_Group
+    100006: Geo_Group
+    100008: Head_Jnt
+    100010: Head_Jnt2
+    100012: Jaw_Jnt
+    100014: Jaw_Jnt2
+    100016: LT_creature_wing
+    100018: LT_Leg_01_Jnt
+    100020: LT_Leg_02_Jnt
+    100022: LT_Wing_01_Jnt
+    100024: LT_Wing_02_Jnt
+    100026: LT_Wing_03_Jnt
+    100028: null1
+    100030: null2
+    100032: null3
+    100034: null4
+    100036: polySurface1
+    100038: Root_Jnt
+    100040: Root_Jnt_Group
+    100042: RT_creature_wing
+    100044: RT_Reg_01_Jnt
+    100046: RT_Reg_02_Jnt
+    100048: RT_Wing_01_Jnt
+    100050: RT_Wing_02_Jnt
+    100052: RT_Wing_03_Jnt
+    100054: //RootNode
+    100056: World
+    400000: creature_teeth3
+    400002: creature_teeth4
+    400004: Ctrl_Group
+    400006: Geo_Group
+    400008: Head_Jnt
+    400010: Head_Jnt2
+    400012: Jaw_Jnt
+    400014: Jaw_Jnt2
+    400016: LT_creature_wing
+    400018: LT_Leg_01_Jnt
+    400020: LT_Leg_02_Jnt
+    400022: LT_Wing_01_Jnt
+    400024: LT_Wing_02_Jnt
+    400026: LT_Wing_03_Jnt
+    400028: null1
+    400030: null2
+    400032: null3
+    400034: null4
+    400036: polySurface1
+    400038: Root_Jnt
+    400040: Root_Jnt_Group
+    400042: RT_creature_wing
+    400044: RT_Reg_01_Jnt
+    400046: RT_Reg_02_Jnt
+    400048: RT_Wing_01_Jnt
+    400050: RT_Wing_02_Jnt
+    400052: RT_Wing_03_Jnt
+    400054: //RootNode
+    400056: World
+    4300000: polySurface1
+    4300002: LT_creature_wing
+    4300004: RT_creature_wing
+    4300006: creature_teeth3
+    4300008: creature_teeth4
+    7400000: Fly
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: creature_teeth3
+    13700002: creature_teeth4
+    13700004: LT_creature_wing
+    13700006: polySurface1
+    13700008: RT_creature_wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fly
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

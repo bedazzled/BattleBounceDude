@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 927c86bb4cd43a240b039eed8a6caa79
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: LT_Leg_02_Jnt
+    100002: RT_Wing_02_Jnt
+    100004: RT_Wing_01_Jnt
+    100006: LT_Wing_03_Jnt
+    100008: LT_Wing_02_Jnt
+    100010: LT_Wing_01_Jnt
+    100012: Root_Jnt
+    100014: Root_Jnt_Group
+    100016: World
+    100018: Ctrl_Group
+    100020: RT_Reg_02_Jnt
+    100022: Head_Jnt
+    100024: Jaw_Jnt
+    100026: RT_Reg_01_Jnt
+    100028: creature_teeth
+    100030: creature_body
+    100032: Geo_Group
+    100034: Creature
+    100036: Egg_04_Jnt
+    100038: Egg_03_Jnt
+    100040: Egg_02_Jnt
+    100042: Egg_01_Jnt
+    100044: Egg_Jnt_Group
+    100046: Egg_04_Geo
+    100048: Egg_03_Geo
+    100050: Egg_02_Geo
+    100052: Egg_01_Geo
+    100054: Egg_Geo_group
+    100056: Egg_04_Ctrl
+    100058: Egg_03_Ctrl
+    100060: Egg_02_Ctrl
+    100062: Egg_01_Ctrl
+    100064: World 1
+    100066: Egg_Ctrl_Group
+    100068: Egg
+    100070: Ground
+    100072: //RootNode
+    100074: RT_creature_wing
+    100076: LT_creature_wing
+    100078: Egg_Ctrl_Group 1
+    100080: RT_Wing_03_Jnt
+    100082: LT_Leg_01_Jnt
+    400000: LT_Leg_02_Jnt
+    400002: RT_Wing_02_Jnt
+    400004: RT_Wing_01_Jnt
+    400006: LT_Wing_03_Jnt
+    400008: LT_Wing_02_Jnt
+    400010: LT_Wing_01_Jnt
+    400012: Root_Jnt
+    400014: Root_Jnt_Group
+    400016: World
+    400018: Ctrl_Group
+    400020: RT_Reg_02_Jnt
+    400022: Head_Jnt
+    400024: Jaw_Jnt
+    400026: RT_Reg_01_Jnt
+    400028: creature_teeth
+    400030: creature_body
+    400032: Geo_Group
+    400034: Creature
+    400036: Egg_04_Jnt
+    400038: Egg_03_Jnt
+    400040: Egg_02_Jnt
+    400042: Egg_01_Jnt
+    400044: Egg_Jnt_Group
+    400046: Egg_04_Geo
+    400048: Egg_03_Geo
+    400050: Egg_02_Geo
+    400052: Egg_01_Geo
+    400054: Egg_Geo_group
+    400056: Egg_04_Ctrl
+    400058: Egg_03_Ctrl
+    400060: Egg_02_Ctrl
+    400062: Egg_01_Ctrl
+    400064: World 1
+    400066: Egg_Ctrl_Group
+    400068: Egg
+    400070: Ground
+    400072: //RootNode
+    400074: RT_creature_wing
+    400076: LT_creature_wing
+    400078: Egg_Ctrl_Group 1
+    400080: RT_Wing_03_Jnt
+    400082: LT_Leg_01_Jnt
+    2300000: Ground
+    3300000: Ground
+    4300000: Ground
+    4300002: Egg_01_Geo
+    4300004: Egg_02_Geo
+    4300006: Egg_03_Geo
+    4300008: Egg_04_Geo
+    4300010: creature_body
+    4300012: creature_teeth
+    4300014: LT_creature_wing
+    4300016: RT_creature_wing
+    7400000: Take 001
+    7400002: EggBroken
+    11100000: //RootNode
+    13700000: creature_teeth
+    13700002: creature_body
+    13700004: Egg_04_Geo
+    13700006: Egg_03_Geo
+    13700008: Egg_02_Geo
+    13700010: Egg_01_Geo
+    13700012: RT_creature_wing
+    13700014: LT_creature_wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: EggBroken
+      takeName: 
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
